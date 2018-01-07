@@ -1,0 +1,9 @@
+{
+  "name": "d64-filter",
+  "version": "1.0.1",
+  "description": "Simple url pattern matcher with data-as-base64 uri replacement.",
+  "main": "index.js",
+  "repository": "https://github.com/kbulis/d64-filter.git",
+  "author": "kirk.d.bulis@gmail.com",
+  "license": "MIT"
+}
